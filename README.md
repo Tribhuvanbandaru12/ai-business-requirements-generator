@@ -34,7 +34,7 @@ The app allows a user to paste unstructured stakeholder notes and generate:
 - One-page executive summary
 
 
-- This is not a generic chatbot project. It is built around a specific analyst workflow:
+--> This is not a generic chatbot project. It is built around a specific analyst workflow:
 
 1. Capture messy stakeholder input.
 2. Convert it into structured BA documentation.
