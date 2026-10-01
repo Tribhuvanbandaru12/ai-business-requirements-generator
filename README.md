@@ -33,9 +33,8 @@ The app allows a user to paste unstructured stakeholder notes and generate:
 - BA quality review
 - One-page executive summary
 
-## Why This Project Stands Out
 
-This is not a generic chatbot project. It is built around a specific analyst workflow:
+- This is not a generic chatbot project. It is built around a specific analyst workflow:
 
 1. Capture messy stakeholder input.
 2. Convert it into structured BA documentation.
@@ -172,13 +171,6 @@ This project demonstrates how AI can help analysts:
 - How to review AI-generated outputs instead of accepting them blindly
 - How to explain AI automation in a Business Analyst context
 
-## Resume Bullet
-
-Built an AI-powered Business Requirements Generator using Python, Streamlit, Gemini API, and SQLite to convert unstructured stakeholder notes into structured BRDs, user stories, acceptance criteria, UAT test cases, RTMs, Jira-ready stories, quality reviews, and executive summaries.
-
-## LinkedIn Summary
-
-I built an AI Business Requirements Generator to demonstrate how AI can support real analyst workflows. The tool converts messy stakeholder notes into structured Business Analyst documentation including requirements, user stories, acceptance criteria, UAT test cases, RTMs, and executive summaries. The goal is not to replace analysts, but to reduce repetitive drafting effort and help analysts focus more on validation, stakeholder communication, and decision-making.
 
 ## Future Improvements
 
